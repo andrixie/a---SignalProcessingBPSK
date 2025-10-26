@@ -1,4 +1,4 @@
-# BPSK Signal Processing Toolbox
+# BPSK Signal Processing 
 
 A small MATLAB toolbox for simulating BPSK (Binary Phase Shift Keying) communication systems. Includes pulse-shaping, matched filtering, and symbol detection helpers, useful for simulation and rapid prototyping.
 
